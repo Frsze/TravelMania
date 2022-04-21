@@ -1,0 +1,91 @@
+
+.gabung{
+    background-image:url(https://img.freepik.com/free-photo/fuji-mountain-kawaguchiko-lake-sunset-autumn-seasons-fuji-mountain-yamanachi-japan_335224-1.jpg?t=st=1649902872~exp=1649903472~hmac=b495071d9c40689da1b985f377d7027d13c56ea9abec1e69863a6cc695a7f4a0&w=1380) ;
+    background-size:cover;
+
+    
+}
+
+/*seksyen1*/
+.seksyen1{
+    background-color:rgba(0, 0, 0, 0.356);
+    padding: 7% 15% 7%;
+    font-family:fantasy
+}
+
+.banner{
+    text-align:center ;
+}
+
+.heading-sewa{
+    font-family: 'Russo One', sans-serif;
+    color:rgb(238, 224, 35);
+}
+
+.TulisanPutih{
+    font-family: 'Russo One', sans-serif;
+    color: rgb(250, 252, 253);
+}
+
+/*seksyen2*/
+.seksyen2{
+    background-color: rgba(0, 0, 0, 0.349) ;
+    padding: 5% 15% 5%;
+    text-align: center;
+    font-family:fantasy;
+    color: aliceblue;
+}
+
+.icon{
+    color:rgb(238, 224, 35);    
+    margin-bottom:1rem;
+
+}
+
+.feature-box{
+    padding: 3%;
+    color: rgb(255, 255, 255);
+}
+
+/*seksyen3*/
+.seksyen3{
+    color: rgb(255, 255, 255);
+    background-color:#a8d0e1a1;
+    padding: 1% 5% 1%;
+    text-align: center ;
+    font-style:oblique;
+    
+}
+
+/*seksyen4*/
+.seksyen4{
+    background-color: rgba(240, 248, 255, 0.386);
+    text-align: center;
+    padding: 5%;
+    font-family: 'Monda', sans-serif;
+    color: rgb(0, 0, 0);
+    
+}
+
+/*seksyen5*/
+.seksyen5{
+    background-color:#593f3492;
+    
+    color: rgb(255, 255, 255);
+    padding: 7% 15% 7%;
+  
+}
+
+/*footer*/
+.footer{
+    background-color: black;
+    color: aliceblue;
+}
+
+
+
+
+.gabungan{
+    background-image: url(https://cdn.wallpapersafari.com/97/60/bR1iZp.jpg);
+    background-size: cover;
+}
